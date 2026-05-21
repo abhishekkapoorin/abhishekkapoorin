@@ -1,16 +1,64 @@
-## Hi there 👋
+# Abhishek Kapoor
 
-<!--
-**abhishekkapoorin/abhishekkapoorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering professional at Ansys, part of Synopsys.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Kapoor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekkapoorin/)
+[![GitHub](https://img.shields.io/badge/GitHub-abhishekkapoorin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekkapoorin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I build reliable, production-grade software with a focus on engineering quality, maintainability, and measurable impact. My work emphasizes clean system design, disciplined execution, and practical problem-solving across modern software development workflows.
+
+Currently at **Ansys, part of Synopsys**, contributing to professional engineering software and development practices that prioritize scale, performance, and long-term sustainability.
+
+## Professional Focus
+
+- Building robust software systems with strong engineering fundamentals
+- Improving code quality, maintainability, and delivery workflows
+- Solving complex technical problems with pragmatic, scalable solutions
+- Contributing to high-performance and production-oriented development environments
+
+## Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+
+### Tools and Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## GitHub Snapshot
+
+<p>
+	<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekkapoorin&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkapoorin&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+<p>
+	<img height="170" src="https://streak-stats.demolab.com?user=abhishekkapoorin&hide_border=true" alt="GitHub streak" />
+</p>
+
+## What You Will Find Here
+
+- Professional software projects and technical experiments
+- Repositories focused on engineering quality and implementation detail
+- Practical work across development tooling, automation, and system design
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/abhishek-kapoor-x/
+- GitHub: https://github.com/abhishekkapoorin
+
+---
+
+Open to meaningful engineering discussions, collaboration, and opportunities aligned with strong technical standards.
