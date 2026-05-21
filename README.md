@@ -1,8 +1,10 @@
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=180&section=header&text=Abhishek%20Kapoor&fontSize=42&fontColor=ffffff&desc=Software%20Engineering%20Professional&descAlignY=68)
+
 # Abhishek Kapoor
 
 Software engineering professional at Ansys, part of Synopsys.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Kapoor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekkapoorin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Kapoor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kapoor-x/)
 [![GitHub](https://img.shields.io/badge/GitHub-abhishekkapoorin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekkapoorin)
 
 ## About
@@ -39,13 +41,25 @@ Currently at **Ansys, part of Synopsys**, contributing to professional engineeri
 
 ## GitHub Snapshot
 
-<p>
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekkapoorin&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkapoorin&layout=compact&hide_border=true" alt="Top languages" />
+<p align="center">
+	<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekkapoorin&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
+	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkapoorin&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
 
-<p>
-	<img height="170" src="https://streak-stats.demolab.com?user=abhishekkapoorin&hide_border=true" alt="GitHub streak" />
+<p align="center">
+	<img height="170" src="https://streak-stats.demolab.com?user=abhishekkapoorin&hide_border=true&theme=transparent" alt="GitHub streak" />
+</p>
+
+## Contribution Activity
+
+<p align="center">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkapoorin&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+</p>
+
+## GitHub Highlights
+
+<p align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=abhishekkapoorin&theme=flat&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ## What You Will Find Here
@@ -62,3 +76,5 @@ Currently at **Ansys, part of Synopsys**, contributing to professional engineeri
 ---
 
 Open to meaningful engineering discussions, collaboration, and opportunities aligned with strong technical standards.
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:334155,100:0F172A&height=120&section=footer)
