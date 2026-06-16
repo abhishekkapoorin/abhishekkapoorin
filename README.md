@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=180&section=header&text=Abhishek%20Kapoor&fontSize=42&fontColor=ffffff&desc=Software%20Engineering%20Professional&descAlignY=68)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:334155&height=180&section=header&text=Abhishek%20Kapoor&fontSize=42&fontColor=ffffff&desc=AI%20/%20ML%20Engineer&descAlignY=68)
 
 # Abhishek Kapoor
 
-Software engineering professional at Ansys, part of Synopsys.
+AI Research & Development Intern at Ansys, part of Synopsys.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Kapoor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kapoor-x/)
 [![GitHub](https://img.shields.io/badge/GitHub-abhishekkapoorin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekkapoorin)
