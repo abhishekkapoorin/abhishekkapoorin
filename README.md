@@ -5,7 +5,7 @@
 AI Research & Development Intern at Ansys, part of Synopsys.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Kapoor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kapoor-x/)
-[![GitHub](https://img.shields.io/badge/GitHub-abhishekkapoorin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekkapoorin)
+[![GitHub](https://img.shields.io/badge/GitHub-abhishekkapoorx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekkapoorx)
 
 ## About
 
